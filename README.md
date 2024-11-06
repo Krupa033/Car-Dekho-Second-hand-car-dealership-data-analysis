@@ -29,7 +29,9 @@ Description: Determine the number of diesel cars available in the year 2020.
 Purpose: To understand the availability of diesel cars in a specific year.
 
 **Methodology**
+
 The analysis was performed using MySQL queries to extract and manipulate the data. Each task was addressed with a specific query to obtain the required information.
 
 **Conclusion**
+
 This project provides valuable insights into the second-hand car inventory of the dealership. By analyzing the data, we can make informed decisions regarding car availability and trends over the years.
